@@ -1,3 +1,2 @@
 This is the settings file with some instructions
 Working and studying for Web Development
-Some new updates
