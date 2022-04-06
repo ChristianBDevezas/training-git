@@ -1,2 +1,2 @@
 This is the settings file with instructions
-Working and studying for the Web
+Working and studying for Web Development
