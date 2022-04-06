@@ -1,2 +1,2 @@
 This is the settings file with instructions
-Web
+Working for the Web
