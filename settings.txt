@@ -1,2 +1,2 @@
-This is the settings file with instructions
+This is the settings file with some instructions
 Working and studying for Web Development
